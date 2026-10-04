@@ -7,6 +7,11 @@
 
 FinWise's biggest growth problem is value-realisation, because customers are entering the funnel, but too few experience enough value to convert and stay.
 
+This is evidenced by:
+- the 2% trial-to-paid conversion rate
+- 40% one year retention
+- diminishing returns from additional paid acquisition spend.
+
 
 _____
 
