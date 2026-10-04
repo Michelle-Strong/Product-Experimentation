@@ -5,7 +5,7 @@
 
 ## Growth hypothesis
 
-FinWise's biggest growth problem is _(not filled in)_, because _(not filled in)_.
+FinWise's biggest growth problem is value-realisation, because customers are entering the funnel, but too few experience enough value to convert and stay.
 
 _Working notes: _(not filled in)_ Evidence: _(not filled in)_ Against the data: _(not filled in)__
 
