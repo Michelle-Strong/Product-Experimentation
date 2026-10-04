@@ -22,9 +22,7 @@ THEN week 1 activation will increase by 10%-15%
 BECAUSE we believe trial users are failing to experience FinWise's 'aha moment' quickly enough, contributing to the low 2% trial-to-paid conversion rate
 WHICH WE WILL MEASURE WITH an A/B test over 2 weeks, using completion of FinWise's defined activation actions within 7 days as the primary metric, with day 1 abandonment and onboarding completion rate as a supporting guardrail metric.
 
-_(not filled in)_
 
-**Not doing:** _(not filled in)_
 
 _____
 
